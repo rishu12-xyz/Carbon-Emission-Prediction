@@ -26,7 +26,7 @@ Accurate prediction of carbon emissions is crucial in the fight against climate 
 
 ## 📁 Dataset
 
-Dataset used: [CO2 Emissions Canada dataset](https://www.kaggle.com/datasets/debajyotipodder/co2-emission-by-vehicles)
+Dataset used: [CO2 Emissions dataset](https://github.com/rishu12-xyz/Carbon-Emission-Prediction/blob/main/Data_cleaned.csv)
 
 The dataset includes features like:
 - Engine Size
@@ -67,6 +67,6 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## 📄 License
 
-[MIT License](LICENSE)
+[edunet foundation](LICENSE)
 
 
