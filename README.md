@@ -51,7 +51,7 @@ The Random Forest model gave the best performance with:
 - R² Score: 0.92  
 - RMSE: ~12 g/km
 ## ⚙ MODEL
-🔗![Link to the Model:](https://drive.google.com/file/d/1JYFZKR9bqby4JKhFUm5OTCTo1mIQ43Rx/view?usp=drive_link)
+🔗[Link to the Model:](https://drive.google.com/file/d/1JYFZKR9bqby4JKhFUm5OTCTo1mIQ43Rx/view?usp=drive_link)
 
 ## 📷 Sample Output
 
@@ -66,6 +66,6 @@ This project successfully demonstrates how machine learning can be applied to en
 
 ## 📄 License
 
-![edunet foundation](https://edunetfoundation.org/)
+[edunet foundation](https://edunetfoundation.org/)
 
 
