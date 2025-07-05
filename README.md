@@ -24,6 +24,9 @@ Accurate prediction of carbon emissions is crucial in the fight against climate 
 - Scikit-learn  
 - Git & GitHub
 
+## Required Libraries
+```pip install numpy pandas seaborn streamlit matplotlib scikit-learn```
+
 ## 📁 Dataset
 
 Dataset used: [CO2 Emissions dataset](https://github.com/rishu12-xyz/Carbon-Emission-Prediction/blob/main/Data_cleaned.csv)
