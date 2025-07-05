@@ -51,20 +51,13 @@ The Random Forest model gave the best performance with:
 - R² Score: 0.92  
 - RMSE: ~12 g/km
 ## ⚙ MODEL
-🔗[Link to the Model:](https://drive.google.com/file/d/1JYFZKR9bqby4JKhFUm5OTCTo1mIQ43Rx/view?usp=sharing)
-
-## 📷 Sample Output
-
-![Model Output](assets/sample_output.png) <!-- Add screenshot to 'assets' folder -->
+**🔗Link to the Model:**[📂](https://drive.google.com/file/d/1JYFZKR9bqby4JKhFUm5OTCTo1mIQ43Rx/view?usp=sharing)
 
 ## 🧠 Conclusion
 
 This project successfully demonstrates how machine learning can be applied to environmental data for impactful decision-making. Further improvement can be done with larger datasets and deep learning models.
 
 ---
-
-
-## 📄 License
 
 [edunet foundation](https://edunetfoundation.org/)
 
