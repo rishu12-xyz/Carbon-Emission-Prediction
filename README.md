@@ -51,7 +51,7 @@ The Random Forest model gave the best performance with:
 - R² Score: 0.92  
 - RMSE: ~12 g/km
 ## ⚙ MODEL
-**🔗Link to the Model:**[**📂**](https://drive.google.com/file/d/1JYFZKR9bqby4JKhFUm5OTCTo1mIQ43Rx/view?usp=sharing)👈
+**🔗Link to the Model:**[**📂**](https://drive.google.com/file/d/1JYFZKR9bqby4JKhFUm5OTCTo1mIQ43Rx/view?usp=sharing) 👈
 
 ## 🧠 Conclusion
 
